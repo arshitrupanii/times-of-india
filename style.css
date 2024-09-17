@@ -7,6 +7,7 @@
 }
 
 
+
 .middle_part{
     display: flex;
     /* justify-content: ; */
@@ -166,12 +167,14 @@ nav{
 }
 
 .content img{
+    cursor: pointer;
     width: 100px;
     height: 56px;
     margin-left: 13px;
     margin-top: 12px;
     border-radius: 5px;
 }
+
 
 .content p{
     font-size: 14px;
